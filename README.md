@@ -23,3 +23,9 @@ create files tree <br>
 500 if no name in the query string <br>
 200 if the name is in the query string <br>
 given an name in the query string, the output object is correct <br>
+
+<br>
+
+ ## UML Diagram
+
+ ![lab2](./lab2.PNG)
